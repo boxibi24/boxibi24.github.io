@@ -56,12 +56,12 @@ params:
 
   p1:
     heading: "Introduction"
-    image: "images/pages/our-mission.png"
+    image: "images/pages/project_ZAC.jpg"
     content:
       - text: "Hello, I'm Tu Nguyen, a Mechatronics Engineer graduate from HCMUT with a deep-seated passion for creativity, game development, and programming. My journey into the world of technology and gaming began at a very young age, and since my first exposure to the gaming industry as a Technical Artist in 2020, I've been captivated by the limitless possibilities it offers. I thrive on the challenge of creating immersive experiences, especially within the realms of puzzling and competitive multiplayer games. Join me as I navigate the intersection of engineering and entertainment, bringing ideas to life through code and design."
   p2:
     heading: "Skills"
-    image: "images/pages/hacktoberfest.jpg"
+    image: "images/pages/projects_HRAF.jpg"
     content:
       - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur at purus non enim commodo tincidunt vel in nulla. Aenean pretium dolor non ultricies bibendum. Etiam quis blandit enim. Nunc condimentum ut lorem in faucibus. Phasellus varius ligula et commodo tristique. Nunc sodales nisl nec laoreet vehicula. Donec velit nibh, sollicitudin at nulla a, egestas dignissim eros. Sed lacinia hendrerit interdum. Vestibulum pellentesque sem venenatis nisl tempor accumsan sit amet tempus felis. Mauris leo diam, porttitor nec bibendum id, tempus ac nulla. Etiam congue ornare erat at convallis. Donec in nisi dapibus, mattis risus vel, imperdiet enim. Donec fermentum sit amet tortor nec tincidunt. Nam nec lectus tortor. Nunc sit amet laoreet orci, porta ornare massa. Phasellus eget lorem mi. Nam eleifend ultricies sapien, quis mollis leo bibendum at. Quisque viverra lorem sit amet magna aliquet, et dignissim arcu eleifend."
   p3:
@@ -96,17 +96,19 @@ params:
   social_media:
     github:
       enabled: true
-      url: 'https://github.com/nusserstudios'
+      url: 'https://github.com/boxibi24'
     facebook:
       enabled: true
-      url: 'https://facebook.com/nusserstudios'
+      url: 'https://www.facebook.com/nguyenanh.tuantu'
     instagram:
-      enabled: true
+      enabled: false
       url: 'https://instagram.com/nusserstudios'
     twitter:
-      enabled: true
+      enabled: false
       url: '@nusserstudios'
-    
+    linkedin:
+      enabled: true
+      url: 'https://www.linkedin.com/in/natuantu97'
 
 menu:
   main:
