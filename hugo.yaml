@@ -63,31 +63,62 @@ params:
     heading: "Skills"
     image: "images/pages/projects_HRAF.png"
     content:
-      - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur at purus non enim commodo tincidunt vel in nulla. Aenean pretium dolor non ultricies bibendum. Etiam quis blandit enim. Nunc condimentum ut lorem in faucibus. Phasellus varius ligula et commodo tristique. Nunc sodales nisl nec laoreet vehicula. Donec velit nibh, sollicitudin at nulla a, egestas dignissim eros. Sed lacinia hendrerit interdum. Vestibulum pellentesque sem venenatis nisl tempor accumsan sit amet tempus felis. Mauris leo diam, porttitor nec bibendum id, tempus ac nulla. Etiam congue ornare erat at convallis. Donec in nisi dapibus, mattis risus vel, imperdiet enim. Donec fermentum sit amet tortor nec tincidunt. Nam nec lectus tortor. Nunc sit amet laoreet orci, porta ornare massa. Phasellus eget lorem mi. Nam eleifend ultricies sapien, quis mollis leo bibendum at. Quisque viverra lorem sit amet magna aliquet, et dignissim arcu eleifend."
+      - text: "Senior Technical Artist working at Sparx *. Involved and credited in multiple AAA game projects."
+      - text: "Experienced with Unreal, Unity, DCC tools, and pipeline tool development."
+      - text: "Experienced Python / C++ tooling for DCC and stand-alone applications."
+      - text: "Experienced with DevOps, Source control and deployment systems."
   p3:
     heading: "Credited game titles"
     content:
-      - text: "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque. Blandit amet, sed aenean erat arcu morbi. Cursus faucibus nunc nisl netus morbi vel porttitor vitae ut. Amet vitae fames senectus vitae."
+      - text: "(2023) Riot Games: League of Legends"
+        url: "https://airtable.com/appiyHdznCnPhrDnh/shr0a7cjQ6wjv5lhW"
+      - text: "(2021) CDPR: Horizon Forbidden West"
+        url: "https://youtu.be/dVMv8VIrfAk?t=2192"
+      - text: "(2023) EA: Star Wars Jedi: Survivor"
+        url: "https://youtu.be/QUuTNy4hwzE?si=kSlWU1jcGvdOxZuQ&t=656"
+      - text: "(2021) Supermassive Game: The Quarry"
+        url: "https://youtu.be/wz49m4d7HWA?t=407"
+      - text: "(2022) 2K: WWE 2k22"
+        url: "https://youtu.be/Eodk-N4lAcs?t=1242"
+      - text: "(2021) Manticore: Core"
+        url: "https://www.artstation.com/artwork/zO21QQ?fbclid=IwAR1cO9jRt8A_Z5XIsXZuqScOu5RTFV8YzZAEtZq3PYz2qf6a6TwUN_J8WNU"
     links:
       - text: More details ...
         url: "#"
     logos:
       - identifier: a
-        image: "images/pages/5x5.png"
-        alt: "a"
+        image: "images/pages/LOL.jpg"
+        alt: "Riot Games: League of Legends"
+        url: "https://www.leagueoflegends.com/en-us/"
       - identifier: b
+        image: "images/pages/HFW.jpg"
+        alt: "CDPR: Horizon Forbidden West"
+        url: "https://www.playstation.com/en-vn/games/horizon-forbidden-west/"
       - identifier: c
+        image: "images/pages/StarwarsJediSurvivor.jpg"
+        alt: "EA: Star Wars Jedi: Survivor"
+        url: "https://www.ea.com/games/starwars/jedi/jedi-survivor"
       - identifier: d
+        image: "images/pages/projects_TheQuarry.jpg"
+        alt: "Supermassive Game: The Quarry"
+        url: "https://quarrygame.2k.com/"
       - identifier: e
+        image: "images/pages/wwe2k22.jpg"
+        alt: "2K: WWE 2k22"
+        url: "https://wwe.2k.com/2k22/"
       - identifier: f
+        image: "images/pages/coregames.png"
+        alt: "Manticore: Core"
+        url: "https://www.manticoregames.com/"
+
   p4:
     heading: "From the blog"
     content:
       - text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa libero labore natus atque, ducimus sed."
   p5:
-    heading: "Stay Up to Date"
+    heading: "Contact me"
     content:
-      - text: "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque."
+      - text: "For jobs, work of relevant types"
     action: "#"
     label: "Email address"
     placeholder: "Enter your email"
@@ -96,10 +127,10 @@ params:
   social_media:
     github:
       enabled: true
-      url: 'https://github.com/boxibi24'
+      url: "https://github.com/boxibi24"
     facebook:
       enabled: true
-      url: 'https://www.facebook.com/nguyenanh.tuantu'
+      url: "https://www.facebook.com/nguyenanh.tuantu"
     instagram:
       enabled: false
       url: 'https://instagram.com/nusserstudios'
@@ -108,7 +139,7 @@ params:
       url: '@nusserstudios'
     linkedin:
       enabled: true
-      url: 'https://www.linkedin.com/in/natuantu97'
+      url: "https://www.linkedin.com/in/natuantu97"
 
 menu:
   main:
