@@ -114,7 +114,7 @@ params:
   p4:
     heading: "From the blog"
     content:
-      - text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa libero labore natus atque, ducimus sed."
+      - text: "Check out my articles"
   p5:
     heading: "Contact me"
     content:
